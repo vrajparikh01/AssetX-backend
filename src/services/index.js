@@ -1,0 +1,1 @@
+module.exports.pinataService= require('./pinata.service');
